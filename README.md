@@ -1,2 +1,5 @@
 # DataScienceNBA
-Using Python to Examine the Stats in the NBA as a supplement to taking Data Science.
+
+Using Python to examine stats in the NBA as a supplement to taking Data Science at CU Boulder (*CSCI 3022*)
+
+
